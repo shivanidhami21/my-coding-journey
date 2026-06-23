@@ -1,19 +1,36 @@
-# My Coding Journey
+Python Basics
 
-This repository documents my journey of learning programming.
+Welcome to my Python Basics repository! 🚀
 
-## Currently Learning
+This repository contains my Python learning journey as a beginner. Here, I am practicing Python concepts step by step and documenting my progress.
+
+Topics Covered
 
 - Python Basics
-- Data Analysis Fundamentals
-- Exploratory Data Analysis (EDA)
+- Variables
+- Type Casting
+- Operators
+- Data Types
+- Input and Output
 
-## Goals
+Upcoming Topics
 
-- Build beginner-friendly projects
-- Improve problem solving skills
-- Learn data analysis step by step
+- Conditional Statements (if, elif, else)
+- Loops
+- Functions
+- Lists
+- Tuples
+- Sets
+- Dictionaries
 
- ## Progress
+Goals
 
-- Started my coding journey in 2026 and began learning Python.
+- Build a strong foundation in Python
+- Improve problem-solving skills
+- Practice coding regularly
+- Prepare for Data Analysis and Data Science
+
+
+Progress
+
+Started learning Python in 2026 and continuing my coding journey step by step.
