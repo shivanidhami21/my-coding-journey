@@ -12,10 +12,10 @@ Topics Covered
 - Operators
 - Data Types
 - Input and Output
-
+- Conditional Statements (if, elif, else)
+  
 Upcoming Topics
 
-- Conditional Statements (if, elif, else)
 - Loops
 - Functions
 - Lists
