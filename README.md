@@ -13,10 +13,10 @@ Topics Covered
 - Data Types
 - Input and Output
 - Conditional Statements (if, elif, else)
-  
+  - Loops
+    
 Upcoming Topics
 
-- Loops
 - Functions
 - Lists
 - Tuples
